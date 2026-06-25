@@ -76,7 +76,7 @@ defineProps(['data', 'color'])
 svg {
   width: 100px;
   margin: 10px;
-  filter: drop-shadow(0px 0px 5px red);
+  /* filter: drop-shadow(0px 0px 5px red); */
 }
 path,
 circle {
