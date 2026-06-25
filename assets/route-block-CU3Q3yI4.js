@@ -1,0 +1,1 @@
+import{D as e,a as t}from"./index-C5rlKOvQ.js";var n=t(`list`,()=>({items:e([]),finishedItems:e([]),currentItem:e(``),id:e(1)}),{persist:{key:`pomodoro-list`}}),r={};export{n,r as t};
