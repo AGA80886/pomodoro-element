@@ -40,7 +40,7 @@ const settings = useSettingsStore()
 }
 
 .alarm-card {
-  width: 600px;
+  width: 300px;
   margin: 0 auto 16px;
 }
 
@@ -51,6 +51,6 @@ const settings = useSettingsStore()
 }
 
 audio {
-  width: 220px;
+  width: 200px;
 }
 </style>
